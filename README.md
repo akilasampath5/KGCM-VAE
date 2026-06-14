@@ -1,6 +1,6 @@
-# Framework-KGCM-VAE: Knowledge-Guided Causal Modeling for Arctic Sea Ice
+# KGCM-VAE: Knowledge-Guided Causal Modeling for Arctic Sea Ice
 
-Framework-KGCM-VAE integrates causal discovery with variational autoencoders to quantify cause-and-effect relationships between sea ice thickness and atmospheric forcing variables. By embedding domain knowledge as structural constraints, the framework enables causal inference in dynamic physical systems.
+KGCM-VAE integrates causal discovery with variational autoencoders to quantify cause-and-effect relationships between sea ice thickness and atmospheric forcing variables. By embedding domain knowledge as structural constraints, the framework enables causal inference in dynamic physical systems.
 
 ## Status
 
@@ -14,7 +14,7 @@ The Arctic multivariate dataset is available at:
 ## Repository Structure
 
 ```
-Framework-KGCM-VAE/
+KGCM-VAE/
 ├── README.md
 ├── requirements.txt
 ├── src/
@@ -26,7 +26,7 @@ Framework-KGCM-VAE/
     └── Submission_sit_ssh_realworld_final.ipynb
 ```
 
-## Framework Overview
+## Overview
 
 | Component | Description |
 |-----------|-------------|
@@ -48,8 +48,8 @@ Framework-KGCM-VAE/
 ## Installation
 
 ```bash
-git clone https://github.com/akilasampath5/Framework-KGCM-VAE.git
-cd Framework-KGCM-VAE
+git clone https://github.com/akilasampath5/KGCM-VAE.git
+cd KGCM-VAE
 pip install -r requirements.txt
 ```
 
