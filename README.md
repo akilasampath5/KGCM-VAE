@@ -2,10 +2,6 @@
 
 KGCM-VAE integrates causal discovery with variational autoencoders to quantify cause-and-effect relationships between sea ice thickness and atmospheric forcing variables. By embedding domain knowledge as structural constraints, the framework enables causal inference in dynamic physical systems.
 
-## Status
-
-**Under review**, 2025. Code will be fully released upon acceptance.
-
 ## Dataset
 
 The Arctic multivariate dataset is available at:
